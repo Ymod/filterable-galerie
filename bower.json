@@ -1,0 +1,21 @@
+{
+  "name": "Ymod-filterable-galerie",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Ymod/filterable-galerie",
+  "authors": [
+    "Yoan marchal <marchalyoan@gmail.com>"
+  ],
+  "description": "",
+  "main": "sass/main.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
