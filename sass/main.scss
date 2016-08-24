@@ -8,6 +8,22 @@ $hover_gallery:	lighten($background_color, 10%);
 $white:			#fff;
 $gray:			#333;
 $white_60: lighten($white, 40%);
+%galerie__item {
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    display: none;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    margin-top: -22px;
+    padding-top: 14px;
+    font-size: 18px;
+    color: $white;
+    display: block;
+    border-radius:$radius;
+}
+
 .filter {
     list-style: none;
     padding: 0;
