@@ -8,6 +8,7 @@ $hover_gallery:	lighten($background_color, 10%);
 $white:			#fff;
 $gray:			#333;
 $white_60: lighten($white, 40%);
+$radius: 2px;
 %galerie__item {
     width: 45px;
     height: 45px;
